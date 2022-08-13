@@ -1,28 +1,28 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "NEOBOT-STORE",
-    "footer": "© BOTMD | 2022", 
+    "ownerNumber": "6283830815715@s.whatsapp.net", 
+    "ownerName": "002", 
+    "botName": "ZerooTwoo-Bot",
+    "footer": "© ZerooTwoo | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/DHf4mb8QnmC5zynElmG2tG",
+    "group": "https://chat.whatsapp.com/C1MCvEv20rcHZoTbxXe8br",
     "yootube": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
      
-    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0857-8900-4732",
-    "textBarisDonate2": "Ovo : 0857-8900-4732",
-    "textBarisDonate3": "Gopay : 08xxxxxxxxx",
-    "textBarisDonate4": "Pulsa : 0857-8900-4732",
+    "QrisAllPay": "https://telegra.ph/file/af0da559edb7d54546d74.jpg",
+    "textBarisDonate1": "Dana : 085784914140",
+    "textBarisDonate2": "Ovo : 083",
+    "textBarisDonate3": "Gopay : 083",
+    "textBarisDonate4": "Pulsa : 083830815715",
   
-    "ButtonTextMenu1": "Youtube",
-    "ButtonTextMenu2": "Rest Api",
+    "ButtonTextMenu1": "Group",
+    "ButtonTextMenu2": "Saweria",
     "quickReplyButton3": "Rules",
     "quickReplyButton4": "Donasi",
     "quickReplyButton5": "Dashboard",
   
-    "ButtonMenuLink1": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
-    "ButtonMenuLink2": "https://api-lexxy-official.herokuapp.com",
+    "ButtonMenuLink1": "https://chat.whatsapp.com/HfU2b0eC1Am4GZaIbg4gb4",
+    "ButtonMenuLink2": "https://saweria.co/NakanooMikuu",
     "displayTextMenu3": "rules",
     "displayTextMenu4": "donasi",
     "displayTextMenu5": "dashboard",
@@ -30,7 +30,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "© ZerooTwoo",
+        "author": "002"
     }
 }
