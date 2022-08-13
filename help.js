@@ -12,7 +12,6 @@ let pendaftar = JSON.parse(fs.readFileSync('./database/user.json'))
 exports.menuall = (sender, prefix, pushname, ucapanWaktu, tanggal, jam, isOwner) => {
 return `*MAIN MENU*
   ❆ ${prefix}id
-  ❆ ${prefix}sc
   ❆ ${prefix}simi
   ❆ ${prefix}limit
   ❆ ${prefix}rules
